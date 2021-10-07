@@ -1,0 +1,15 @@
+{
+  "manage": {
+    "my_songs": ""
+  },
+  "register": {
+    "accept": "",
+    "tos": ""
+  },
+  "home": {
+    "listen": "استمع الي موسيقي عظيمه"
+  },
+  "song": {
+    "comment_count": ""
+  }
+}
